@@ -83,4 +83,3 @@ print("\nThanks for using the Fake News Headline Generator. Have a fun day")
 
 0-ce16-4b77-9c49-ab6af22190c3.txt…]()
 
-<img width="772" height="1026" alt="Screenshot 2025-11-05 at 12 53 52 AM" src="https://github.com/user-attachments/assets/3cdf5c1e-f655-45e9-aac9-59aa43803566" />
